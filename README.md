@@ -58,7 +58,7 @@ Git Config   0 secs                ▒░░░░░░░░░░░░░░
 ---
 
 ## ⚡️ Me retrouver
-![X (formerly Twitter) URL](https://img.shields.io/twitter/https://x.com/Supra8_Jacques)]
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSupra8_Jacques)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacques-eyoum-095a45295/)
 
 ---
