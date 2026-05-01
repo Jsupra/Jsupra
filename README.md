@@ -42,8 +42,8 @@ A passionate **Software Developer** dedicated to building scalable applications 
 
 ## 📊 Mon activité de code (Détaillée)
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
