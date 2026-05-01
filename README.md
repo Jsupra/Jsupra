@@ -40,11 +40,10 @@ A passionate **Software Developer** dedicated to building scalable applications 
 
 ---
 
-## 📊 Temps de codage (WakaTime)
+## 📊 Mon activité de code (Détaillée)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Supra&layout=compact&theme=radical" alt="WakaTime Stats" />
-</p>
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 ---
 
