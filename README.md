@@ -1,18 +1,18 @@
-# Hi 👋, I'm Jacques Eyoum
+# I'm Jacques Eyoum
 
 A passionate **Software Developer** dedicated to building scalable applications and exploring the DevOps ecosystem.
 
-## 🚀 À propos de moi
+##  À propos de moi
 - 👨🏿‍🎓 Etudiant en genie logiciel 
-- 🔭 Je travaille actuellement sur des architectures microservices.
-- 🌱 J'approfondis mes connaissances en **Kubernetes** et **Cloud Native**.
-- 📫 Me joindre : [jacquesey88@gmai.com]
+-  Je travaille actuellement sur des architectures microservices.
+-  J'approfondis mes connaissances en **Kubernetes** et **Cloud Native**.
+-  Me joindre : [jacquesey88@gmai.com]
 
 ---
 
-## 🛠 Langages et Outils
+## Langages et Outils
 
-### 💻 Développement
+###  Développement
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,7 +21,7 @@ A passionate **Software Developer** dedicated to building scalable applications 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🏗 Infrastructure & Databases
+###  Infrastructure & Databases
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,7 +30,7 @@ A passionate **Software Developer** dedicated to building scalable applications 
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 | Mon Activité | Top Langages |
 | :---: | :---: |
@@ -40,7 +40,7 @@ A passionate **Software Developer** dedicated to building scalable applications 
 
 ---
 
-## 📊 Mon activité de code (Détaillée)
+##  Mon activité de code (Détaillée)
 
 <!--START_SECTION:waka-->
 
@@ -57,7 +57,7 @@ Git Config   0 secs                ▒░░░░░░░░░░░░░░
 
 ---
 
-## ⚡️ Me retrouver
+##  Me retrouver
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSupra8_Jacques)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacques-eyoum-095a45295/)
 
