@@ -43,6 +43,16 @@ A passionate **Software Developer** dedicated to building scalable applications 
 ## 📊 Mon activité de code (Détaillée)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 April 2026 - To: 30 April 2026
+
+Rust         31 mins               █████████████████░░░░░░░░   67.91 %
+Text         13 mins               ███████░░░░░░░░░░░░░░░░░░   28.49 %
+Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
