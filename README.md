@@ -3,10 +3,10 @@
 A passionate **Software Developer** dedicated to building scalable applications and exploring the DevOps ecosystem.
 
 ## 🚀 À propos de moi
+- 👨🏿‍🎓 Etudiant en genie logiciel 
 - 🔭 Je travaille actuellement sur des architectures microservices.
 - 🌱 J'approfondis mes connaissances en **Kubernetes** et **Cloud Native**.
-- 💬 Interrogez-moi sur le **TypeScript**, **Java** ou le déploiement **Docker**.
-- 📫 Me joindre : [Ton Email ici]
+- 📫 Me joindre : [jacquesey88@gmai.com]
 
 ---
 
