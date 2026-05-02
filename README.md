@@ -45,12 +45,13 @@ A passionate **Software Developer** dedicated to building scalable applications 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-Rust         31 mins               █████████████████░░░░░░░░   67.91 %
-Text         13 mins               ███████░░░░░░░░░░░░░░░░░░   28.49 %
-Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Rust         31 mins               ██████████████▒░░░░░░░░░░   57.22 %
+Text         13 mins               ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Markdown     8 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
