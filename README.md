@@ -45,16 +45,16 @@ A passionate **Software Developer** dedicated to building scalable applications 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2026 - To: 03 May 2026
+From: 27 April 2026 - To: 04 May 2026
 
-Rust         31 mins               ███████▓░░░░░░░░░░░░░░░░░   30.19 %
-Markdown     25 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-JSON         20 mins               █████░░░░░░░░░░░░░░░░░░░░   20.12 %
-Text         13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Bash         7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Other        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-TypeScript   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Rust         29 mins               ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+Markdown     25 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+JSON         20 mins               █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+Text         13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Bash         7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+TypeScript   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Batchfile    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 PowerShell   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
