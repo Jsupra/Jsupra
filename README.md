@@ -45,9 +45,10 @@ A passionate **Software Developer** dedicated to building scalable applications 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2026 - To: 13 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-No activity tracked
+Text    5 mins                ████████████████▓░░░░░░░░   67.14 %
+Other   2 mins                ████████▒░░░░░░░░░░░░░░░░   32.86 %
 ```
 
 <!--END_SECTION:waka-->
